@@ -100,6 +100,7 @@ ggplot(penguins, aes(species, fill = species)) +
 “\#F8A511”, “\#D06627”, “\#B9C5CB”
 
 ![`picture_of_nectar`](https://upload.wikimedia.org/wikipedia/en/4/40/A_Picture_of_Nectar_%28Phish_album_-_cover_art%29.jpg)
+
 `picture_of_nectar` = “\#48204A”, “\#F1D06C”, “\#EEA122”, “\#A64535”,
 “\#D0671E”, “\#E48430”, “\#3E408F”, “\#E4E9D2”
 
