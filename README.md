@@ -109,6 +109,7 @@ ggplot(penguins, aes(species, fill = species)) +
 “\#6694CD”, “\#ADB3C0”, “\#BEC2CA”
 
 ![`hoist`](https://upload.wikimedia.org/wikipedia/en/4/4f/Hoist.gif)
+
 `hoist` = “\#DA4E49”, “\#E35541”, “\#D45490”, “\#7E3F24”, “\#9D6132”,
 “\#ACA34F”, “\#D6A25F”, “\#E7D6C7”
 
