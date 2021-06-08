@@ -132,9 +132,9 @@ ggplot(penguins, aes(species, fill = species)) +
 ## Acknowledgements
 
 This package was re-purposed from the excellent
-[tayloRswift](https://github.com/asteves/tayloRswift) package.95% of the
-code is a direct copy pasta and Alexander Stephenson should get credit
-and citation for this work. Aside from a few tweaks and new color
+[tayloRswift](https://github.com/asteves/tayloRswift) package. 95% of
+the code is a direct copy pasta and Alexander Stephenson should get
+credit and citation for this work. Aside from a few tweaks and new color
 palettes, the code is his. Errors in `fromthebottom` are mine.
 
 I also leaned heavily on the R-Bloggers post [Extracting colours from
