@@ -15,7 +15,7 @@ A ggplot2 color palette based on Phish Album Covers.
 You can install the released version of fromthebottom with:
 
 ``` r
-remotes::install_github("bradweiner/fromthebottom")
+devtools::install_github("https://github.com/bradweiner/fromthebottom")
 ```
 
 ## Examples
