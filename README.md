@@ -34,7 +34,7 @@ ggplot(penguins, aes(bill_depth_mm, bill_length_mm, color = species)) +
 
 ### Choose a different palette
 
-[Junta](https://en.wikipedia.org/wiki/Junta_(album) looks great in
+[Junta](https://en.wikipedia.org/wiki/Junta_(album)) looks great in
 grayscale
 
 ``` r
